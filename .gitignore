@@ -1,1 +1,11 @@
+# Jupyter
 .ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Course handouts (not mine to redistribute)
+Lab Material/
